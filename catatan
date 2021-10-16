@@ -21,6 +21,9 @@ git branch namaBranch
 git branch --merged
 git merge master
 
+// delete
+git branch -d namaBranch
+
 // checkout
 git checkout 5digitHash
 git checkout namaBranch
