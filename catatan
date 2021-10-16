@@ -18,6 +18,7 @@ git branch
 git branch namaBranch
 
 // merge
+git branch --merged
 git merge master
 
 // checkout
