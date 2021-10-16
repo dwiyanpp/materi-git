@@ -1,0 +1,29 @@
+// akun
+git config --global user.name "username"
+git config --global user.email "email"
+git config --list
+
+// status
+git add .
+git commit -m "pesan"
+git status
+
+// log
+git log
+gil log -2
+gil log --all --decorate --oneline --graph
+
+// branch
+git branch
+git branch namaBranch
+
+// merge
+git merge master
+
+// checkout
+git checkout 5digitHash
+git checkout namaBranch
+
+// clone
+git clone linkOrSSL
+
