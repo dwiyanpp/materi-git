@@ -41,3 +41,5 @@ ls
 // remote
 git remote
 git push
+git fetch
+git pull
