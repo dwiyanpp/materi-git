@@ -38,3 +38,6 @@ mkdir newFolder
 pwd
 ls
 
+// remote
+git remote
+git push
