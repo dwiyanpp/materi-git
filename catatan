@@ -16,10 +16,12 @@ gil log --all --decorate --oneline --graph
 // branch
 git branch
 git branch namaBranch
+git checkout -b "nama branch"
 
 // merge
 git branch --merged
 git merge master
+git rebase
 
 // delete
 git branch -d namaBranch
